@@ -21,7 +21,7 @@ Movie Recommendation System
 * Data collecting, Data cleaning, Exploratory data analysis, recommenation system and Visualization are all in the Jupyter Notebook.
 * A PowerPoint and pdf for presentation
 * A 5 minutes recording to review
-* https://youtu.be/D8rI45FBxq4
+* https://youtu.be/V2H_HSMK7Qw
 * Blog: https://road2dataanalyst.blogspot.com/2020/11/machine-learning-on-covid-19.html
 
 # Recommendation
