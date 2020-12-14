@@ -22,7 +22,7 @@ Movie Recommendation System
 * A PowerPoint and pdf for presentation
 * A 5 minutes recording to review
 * https://youtu.be/V2H_HSMK7Qw
-* Blog: https://road2dataanalyst.blogspot.com/2020/11/machine-learning-on-covid-19.html
+* Blog: https://road2dataanalyst.blogspot.com/2020/12/movie-recommendation-system.html
 
 # Recommendation
 * For users: 
