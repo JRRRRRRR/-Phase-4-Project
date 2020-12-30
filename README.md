@@ -18,6 +18,7 @@ Movie Recommendation System
     * Build a recommendation system
 
 # Techniques
+* Notebook link: https://github.com/JRRRRRRR/Movie-Recommendation-System/blob/main/final.ipynb
 * Data collecting, Data cleaning, Exploratory data analysis, recommenation system and Visualization are all in the Jupyter Notebook.
 * A PowerPoint and pdf for presentation
 * A 5 minutes recording to review
