@@ -1,5 +1,4 @@
 # Movie Recommendation System
-Phase-4-Project
 # Introduction 
 * Business problems: 
    Using the movie lens 100k data to analyze the movies’ rating and make a movie recommendation system.
